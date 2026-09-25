@@ -90,15 +90,6 @@ Sou a Laís e comecei a estudar desenvolvimento front-end em 2023. Estudo Análi
 </p>
 
 ---
-
-### Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laisaf7&show_icons=true&theme=radium&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laisaf7&layout=compact&theme=radium&hide=html,css"/>
-</div>
-
----
  
 <h3>Contato:</h3>
  
